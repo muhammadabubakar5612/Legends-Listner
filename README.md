@@ -1,0 +1,3 @@
+# Legends-Listner
+Legends Listener is a responsive music player web app built with HTML, CSS, and JavaScript. It allows users to play, pause, and switch songs with next/previous controls, a progress bar, and a dynamic song list. The project demonstrates DOM manipulation, event handling, and audio control using vanilla JavaScript for an interactive UI experience.
+Legends Listener is a web-based music player built using core front-end technologies: HTML, CSS, and JavaScript. The application allows users to play audio tracks, control playback (play, pause, next, previous), and view song progress in real time. The project demonstrates strong understanding of DOM manipulation and event listeners
